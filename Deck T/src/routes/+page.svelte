@@ -1,7 +1,6 @@
 <script>
 </script>
 
-
 <div class="intro">
     <h1>Don't Invest.</h1>
     <h1>Collect.</h1>
@@ -37,12 +36,13 @@
         keepsakes, trophies, and artifacts. They’re meant to be part of your
         collection—expressions of identity, history, and creativity you’ll want
         to preserve, not pawn. Owning here isn’t about trends; it’s about
-        timelessness.
+        collecting.
     </p>
     <br />
     <p>
         Let’s strip away the noise and get back to the core. This is about
         expression, collaboration, and forging something real in the digital
-        realm. If you’re tired of the bullshit too, you’re in the right place.
+        realm. If you’re tired of the bullshit, you’re in the right place.
     </p>
+    <h2 class="build">Let's Build</h2>
 </div>
