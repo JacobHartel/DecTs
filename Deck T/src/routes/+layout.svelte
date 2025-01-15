@@ -21,3 +21,7 @@
 <main>
     <slot/>
 </main>
+
+<footer class="footer">
+    <aside>@eggs_and_jakey</aside>
+</footer>

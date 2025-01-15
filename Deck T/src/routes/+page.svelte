@@ -5,6 +5,33 @@
     <h1>Don't Invest.</h1>
     <h1>Collect.</h1>
     <p>
+        We want YOU to create the next Pokemon* ONCHAIN. NFT's are largely
+        shapeless and shallow images with no correlation other than A DIFFERENT
+        COLOR MONKEY....who gives a shit? We were scammed into caring.
+        </p>
+    <p>
+        A bored ape is BORING. It's a entry level dolce handbag for people who DO NOT GO OUTSIDE!
+        Why do we have to sit back and watch assholes spend 10k on a stupid F*&%king MONKEY?
+
+        appologies it's not the monkey, it's what it stands for....ABSOLUTELY NOTHING
+    </p>
+    
+    <p>
+        The creators do this! Artists like YOU create meaning they envoke
+        emotions, YOU provide memories for children that start a lifelong bond
+        with the world you create for them! Why has everyone forgotten this? I
+        DON'T WANT ANOTHER REMAKE. I want YOU create and build the future!
+    </p>
+    <br />
+    <br />
+    <h2>
+        "Do not follow where the path may lead. Go instead where there is no
+        path and leave a trail."
+    </h2>
+    <h2>-Ralph Waldo Emerson</h2>
+    <br />
+    <br />
+    <p>
         Crypto wasn’t meant to be a casino for the bulls and bullshitters of
         Wall Street. It wasn’t born to be just another vehicle for greed. It was
         designed to show us something different—a new path forward. A way to
@@ -45,4 +72,7 @@
         realm. If you’re tired of the bullshit, you’re in the right place.
     </p>
     <h2 class="build">Let's Build</h2>
+    <br />
+    <br />
+    <aside>*Do not recreate pokemon or any existing IP's :0</aside>
 </div>
